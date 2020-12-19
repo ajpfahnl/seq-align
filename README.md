@@ -1,6 +1,6 @@
 # Seq-Align
 
-This Python package implements sequence alignment with two main methods: dynamic programming with backtracking, and divide and conquer with linear dynamic programming. Each implementation will find all possible alignments, and each have an option to do local alignment.
+This Python package implements sequence alignment (letters A,G,C,T) with two main methods: dynamic programming with backtracking, and divide and conquer with linear dynamic programming. Each implementation will find all possible alignments, and each have an option to do local alignment.
 
 The package requires `numpy` to work, with an additional requirement for the `memory-profiler` if you want to run the test module.
 
